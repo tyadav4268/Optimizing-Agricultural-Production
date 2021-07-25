@@ -1,4 +1,5 @@
-"# Optimizing-Agricultural-Production" 
+"# Optimizing-Agricultural-Production"
+
 A Machine Learning Model to suggest the most suitable Crops to grow based on the available Climatic and Soil conditions.
 - In this project, I have created different python fuction to take out meaningfull and interesting insights from our data.
 - Used distplot of seaborn library to see the trend in soil and climatic conditions requirements of different crops.
